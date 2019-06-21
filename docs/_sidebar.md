@@ -1,3 +1,2 @@
-* [Home](home.md)
-* [Mail](mail.md)
-* [Gulp](gulp.md)
+* [Home](README.md)
+* [Contacts](contacts.md)
