@@ -1,0 +1,16 @@
+body, 
+.sidebar ul li a {
+	color: rgb(38,44,65);
+}
+
+.app-name-link img {
+	width:50%;
+}
+
+.github-corner svg {
+	fill: rgb(255, 240, 204);
+}
+
+.markdown-section a, .sidebar ul li.active > a {
+	color: #353535;
+}
