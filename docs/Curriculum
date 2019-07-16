@@ -1,1 +1,29 @@
+#Week 1
 
+
+  
+  
+  
+  | Core Subject           | Work Method       | Tooling      | Other Principles       | Instructor
+------------------------------------------------------------------------------------------------------------
+   1     | HTML+CSS, responsive,  |                   |              |                        | Ruth John
+         | coding templates from  |  Individually     |              |                        |
+         |  PSD designs           |       Local       |              |                        |
+-------------------------------------------------------------------------------------------------------------
+         | Coding templates from  |                   |              |                        |
+    2    |  designs cont.         |                   |   SAAS       |  Planning and          | Ruth John
+         |                             Individually   |              |  prototyping,          |
+         |                             Local          |              |  wireframing           |
+  .............................  .............................................................|.............
+         |  Javascript            |                   |              |                        | 
+     3   |                        |     Individually  |    Node      |                        | 
+         |                        |       Local       |              |                        | Mark Wales
+         |                        |                   |              |                        |   
+         ----------------------------------------------------------------------------------------------------
+   1     | Javascript             |  Individually     |     Git      |                        |
+         |                        |     Local         | npm & Gulp   |                        |
+         |                        |                   |   Markdown   |                        |      
+         |                        |                   |              |                        |
+-------------------------------------------------------------------------------------------------------------
+         |      Introducing       |  Individually     |     Vagrant  |  Databases             |
+         |         PHP            |    Local          |              |                        |
