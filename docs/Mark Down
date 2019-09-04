@@ -47,16 +47,16 @@ Skype
 
 #Preview markdown in Sublime
 
-Bring up command palette with ⌘+Shift+P or Ctrl+Shift+P
-Search for: "Package Control: Install Package"
-Search for: "MarkdownLivePreview"
-Hit Enter to install
+Bring up command palette with `⌘+Shift+P/`Ctrl+Shift+P`
+Search for: "Extensions: Install Extensions"
+Search for: "Markdown All in One"
+Click on install
 
 
 Then:
 
 Make a .md markdown file
-Hit Alt+M to bring up preview
+Hit `⌘+Shift+V`/`Ctrl+Shift+V` to bring up preview
 
 #Cheatsheet of Syntax
 
