@@ -1,3 +1,8 @@
+# Firefox
+
+
+[Firefox Quantum](https://www.mozilla.org/en-US/firefox/developer/) (bleeding edge Firefox)
+
 # Chrome
 
 Get developer tools included
