@@ -1,3 +1,1 @@
-#Jack Standbridge
-
-#Tom Rosenfeld
+# Jack Standbridge

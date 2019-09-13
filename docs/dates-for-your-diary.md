@@ -1,13 +1,12 @@
-#Dates to keep free for interview process
+# Dates to keep free for interview process
 
-w/c TBC 
+## Week 13: w/c 30th September
 Interview practice with mock interviews
-Technical exercise, given to companies
+Working on technical exercise, given to companies
+Creating/updating CVs
 
-
-w/c TBC
+## Week 14: w/c 7th October
 Interviews with select hiring partners
 
-
-w/c TBC
+## Week 15: w/c 14th October
 Overflow interviews

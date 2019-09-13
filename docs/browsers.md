@@ -1,7 +1,5 @@
-#Chrome
+# Chrome
 
 Get developer tools included
 
-Chrome Canary (bleeding edge Chrome)
-
-https://www.google.co.uk/chrome/browser/canary.html
+[Chrome Canary](https://www.google.co.uk/chrome/browser/canary.html) (bleeding edge Chrome)

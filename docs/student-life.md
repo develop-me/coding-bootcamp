@@ -14,13 +14,14 @@
 
 15:30: break
 
-17:00 - 17:30: group retrospective - what you have learnt, what you found hard, what you think you did well, what you have enjoyed etc. 
+17:00 - 17:30: group retrospective - what you have learnt, what you found hard, what you think you did well, what you have enjoyed etc.
+
 These sessions are really valuable and you will get a lot of support from your fellow team and tutors by making sure you let the group know how you are getting on each day!
 
 
 Evening: continue project work, any further reading, attend hack nights, go to on-site or off-site talks, catch up with mentor and anything else that will keep you up to speed.
 
-#Typical Week
+# Typical Week
 
 Monday		- Teaching and project work
 Tuesday		- Teaching and project work

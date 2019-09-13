@@ -1,11 +1,10 @@
-#Course Resources
+# Course Resources
 
 - Presentations
 - ZIP/web files/libraries etc.
 - Links to resources and articles
 
-#Hosting
+# Hosting
 
 - On Develop Me’s hosting
-E.g.: kye.developme.training/laravel/
-
+E.g.: kye.developme.space/laravel/
