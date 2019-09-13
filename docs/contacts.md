@@ -28,6 +28,6 @@ If you would like to send in feedback anonymously, we appreciate that is often t
 
 ## Complaints
 
-We hope that any queries and small niggles can be dealt with quickly directly with the relevant parties. However we realise that occasionaly you might want to raise something that requires the office team to get involved to come to a solution.
+We hope that any queries and small niggles can be dealt with quickly directly with the relevant parties. However we realise that occasionally you might want to raise something that requires the office team to get involved to come to a solution.
 
-We have a complaints procedure to accomodate that, so if you feel you want to follow a more structured approach to an issue please email full details of the situation to Nicola: nicola@developme.tech. We will respond within 48 hrs to acknowledge reciept of this and then follow our formal procedure of which you can find here: 
+We have a complaints procedure to accommodate that, so if you feel you want to follow a more structured approach to an issue please email full details of the situation to Nicola: nicola@developme.tech. We will respond within 48 hrs to acknowledge receipt of this and then follow our formal procedure of which you can find here:
