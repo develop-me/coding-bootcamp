@@ -2,7 +2,7 @@
 * About You
     * [Your Attitude](about-you/your-attitude.md)
     * [Your Learning Style](about-you/your-learning-style.md)
-    * [Your Mental Health](about-you/your-mental-health.md)
+    * [Staying Healthy](about-you/your-health.md)
 * Course
     * [Contacts](course/contacts.md)
     * [Curriculum](course/curriculum.md)
@@ -27,9 +27,11 @@
 * Logistics
     * [Getting Here](logistics/getting-here.md)
     * [Student Life](logistics/student-life.md)
-    * [Food](logistics/food.md)
+    * [Food & Drink](logistics/food.md)
+    * [Coffee Machine](logistics/coffee-machine.md)
     * [Library](logistics/library.md)
     * [Meetup](logistics/meetup.md)
+    * [Ping-Pong](logistics/ping-pong.md)
 * Jobs
     * [Getting Hired](jobs/getting-hired.md)
     * [Hiring Partners](jobs/hiring-partners.md)
