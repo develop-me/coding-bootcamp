@@ -35,5 +35,6 @@
     * [Ping-Pong](logistics/ping-pong.md)
 * Jobs
     * [Getting Hired](jobs/getting-hired.md)
+    * [Roles](jobs/roles.md)
     * [Hiring Partners](jobs/hiring-partners.md)
     * [Staying Up To Date](jobs/newsletters.md)
