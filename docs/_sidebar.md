@@ -11,6 +11,7 @@
     * [Organisation](course/organisation.md)
     * [Dates For Your Diary](course/dates-for-your-diary.md)
     * [Communications](course/communications.md)
+    * [Attendance](course/attendance.md)
     * [Making the Most of the Course](course/making-the-most-of-the-course.md)
     * [Helping You Succeed](course/helping-you-to-succeed.md)
     * [Mentoring](course/mentoring.md)
