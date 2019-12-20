@@ -6,6 +6,8 @@ Chrome tends to be a bit further ahead in terms of cutting-edge technologies, bu
 
 Both browsers have a standard version and a "developer" version. The developer version tends to have newer technologies but may also contain a few bugs.
 
+**We'd recommend using a different browser for everyday browsing and development**: you will probably need to wipe your cache quite regularly, which will lose all of your cookies (login data) for websites that you visit. On a Mac I'd recommend Safari for everyday browsing and Firefox for development. If you love Chrome/Firefox for everyday browsing then you can use the developer version for development, as this has its own cache.
+
 ## Firefox
 
 
