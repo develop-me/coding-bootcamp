@@ -24,6 +24,7 @@
     * [Code Editor](coding/code-editor.md)
     * [FTP Client](coding/ftp-client.md)
     * [Version Management](coding/version-management.md)
+    * [Shortcuts](coding/shortcuts.md)
     * [Resources](coding/resources.md)
 * Logistics
     * [Getting Here](logistics/getting-here.md)
