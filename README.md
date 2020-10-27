@@ -4,7 +4,7 @@ Welcome pack, essential information and teaching resources for the Coding Bootca
 
 ## View docs
 
-You can view these documents <a href="https://develop-me.github.io/coding-bootcamp/docs">here on Github Pages</a>
+You can view these documents <a href="https://develop-me.github.io/coding-bootcamp">here on Github Pages</a>
 
 ## How to edit/update these docs
 
